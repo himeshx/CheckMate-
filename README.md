@@ -14,7 +14,7 @@ their tasks effortlessly.
 
 - My GitHub profile: <a href="https://github.com/himeshx">```Github!```</a>
 <hr>
-----
+
 ## HTML Layout
 
 The index.html file gives the basic framework for the webpage. In the head tag, we have linked the style.css file which provides the styling for the page and also imported fonts from fontawesome.
@@ -54,7 +54,7 @@ We have also added a functioning delete button beside each stored task to remove
 
 At the end, we have added a deleteAllBtn to delete all the stored tasks from the list.
 <hr>
-----
+
 <h2 align="left">
   <b>
     ©️ Copyright Disclaimer
