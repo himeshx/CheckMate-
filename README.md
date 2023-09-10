@@ -24,7 +24,6 @@ Now, we add an unordered list tag with class as todoList.
 
 In the footer class, we have added a span element showing the number of pending tasks. At the end, we have added a button *"Delete All"* to clear all the tasks from the list.
 
-Lastly, we have linked the script.js file in the body tag.
 
 <hr>
 
