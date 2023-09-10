@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">
     <b>
-  Check Mate     <!--The title for my project.--> 
+  Check Mate     
     </b>
   </h1>
 </p>
